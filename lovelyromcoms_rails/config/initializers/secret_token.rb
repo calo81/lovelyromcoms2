@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Webapp::Application.config.secret_key_base = '289f7a00b6a626407f268334ca2a1429130cce9cf2f304eb2fb3cf0b3c832f7d5fb067fdbc399b9123a9aeeed9ad8c11fc481177909d507a51a229da84c9f425'
+LovelyromcomsRails::Application.config.secret_key_base = '335514f5c93fc81891d63c3605032305927218986a3070e1cfd3d25d4c9e617be00d9fa55346241fd6d54d4fcfe42e5d068707b8baa3956cd43123132e71a19a'
